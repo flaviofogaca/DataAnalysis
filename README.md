@@ -21,6 +21,7 @@ Esse repositório foi criado para mostrar os casos de estudo e desafios realizad
 - **Detecção de fraudes em transações financeiras:** Projeto focado na identificação de transações financeiras fraudulentas utilizando técnicas de aprendizado de máquina. O objetivo é demonstrar a aplicação de modelos preditivos para auxiliar na prevenção de fraudes em ambientes financeiros.
 
 [Link do Colab](https://colab.research.google.com/drive/1tZN1lvaxlTodaOifPXCUkUOqOJrsOdUw#scrollTo=dOwgkb6-3MkK)
+
 ---
 📚 **Tecnologias Utilizadas**
 
