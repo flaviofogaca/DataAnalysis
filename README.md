@@ -22,7 +22,7 @@ Esse repositório foi criado para mostrar os casos de estudo e desafios realizad
 
 [Link do Colab](https://colab.research.google.com/drive/1tZN1lvaxlTodaOifPXCUkUOqOJrsOdUw#scrollTo=dOwgkb6-3MkK)
 
-[Kaggle - Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+[Dataset do Projeto](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 ---
 📚 **Tecnologias Utilizadas**
