@@ -3,7 +3,7 @@
 ---
 
 Bem-vindo ao meu repositório de projetos de análise de dados! Aqui, compartilho notebooks desenvolvidos com Python e ferramentas como Pandas, Matplotlib, Seaborn e SciKit-Learn, explorando desde análises exploratórias até visualizações interativas.
-Esse repositório foi criado para mostrar os casos de estudo e desafios realizados durante a formação técnica que fiz na área de Dados.
+Esse repositório foi criado para mostrar os casos de estudo e desafios realizados durante a formação técnica que fiz na área de Dados, além de projetos pessoais para testar e aprimorar minhas habilidades.
 
 ---
 🚀 **Projetos**
